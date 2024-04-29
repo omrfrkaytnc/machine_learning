@@ -1,0 +1,7 @@
+crm_analytics/datasets
+feature_engineering/datasets
+machine_learning/datasets
+measurement_problems/datasets
+python_programming_for_data_science/datasets
+recommendation_systems/datasets
+.idea
