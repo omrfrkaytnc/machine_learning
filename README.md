@@ -4,6 +4,7 @@ This repository contains the course contents of the Data Science and Machine Lea
 
 ## Datasets
 This folder contains datasets used in both lectures and case studies.
+Notes : "As the sizes of the datasets are large, I did not upload them."
 
 ## Course Training and Application
 Here, you can find materials related to the course curriculum and practical applications covered during the bootcamp.
