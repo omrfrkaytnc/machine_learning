@@ -1,6 +1,6 @@
-# miuul Data Scientist & Machine Learning Bootcamp
+# Machine Learning
 
-This repository contains the course contents of the Data Science and Machine Learning Bootcamp I attended. I've organized each module into three main categories:
+This repository contains the course contents of the Data Science and Machine Learning Bootcamp - Machine Learning Module I attended. I've organized module into three main categories:
 
 ## Datasets
 This folder contains datasets used in both lectures and case studies.
