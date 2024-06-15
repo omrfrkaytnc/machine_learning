@@ -4,64 +4,13 @@ This repository contains the course contents of the Data Science and Machine Lea
 
 ## Datasets
 This folder contains datasets used in both lectures and case studies.
-Notes : "As the sizes of the datasets are large, I did not upload them."
+Notes : "As the sizes of the datasets are large, I did not upload some of them."
 
 ## Course Training and Application
 Here, you can find materials related to the course curriculum and practical applications covered during the bootcamp.
 
 ## Case Studies
 This folder encompasses the application of what we learned during the modules. With careful preparation, I hope this work will benefit those interested in data science.
-
-### Python Programming for Data Science
-**First Part:**
-- Environment Setup
-- Data Structures
-- Functions
-- Conditions
-- Loops
-- Comprehensions
-- Case 1: Python Practice
-- Case 2: List Comprehension Practice
-
-**Second Part:**
-- Numpy
-- Pandas
-- Data Visualization
-- Data Analysis with Python
-- Exploratory Data Analysis (EDA)
-- Case 3: Pandas Practice
-- Case 4: Rule-Based Classification
-
-### CRM Analytics
-- CRM Analytics
-- RFM (Recency-Frequency-Monetary) Analysis
-- Customer Lifetime Value (CLV) and Customer Segmentation
-- Customer Lifetime Value Prediction
-- Case 1: FLO Customer Segmentation
-- Case 2: FLO CLTV Prediction
-
-### Measurement Problems
-- Rating Products
-- Sorting Products
-- Sorting Reviews
-- AB Testing
-- Case 1: Rating Product & Sorting Reviews in Amazon
-- Case 2: Comparison of Conversion Rates of Bidding Methods with AB Testing
-
-### Recommendation Systems
-- Content Based Recommendation
-- Item Based Collaborative Filtering
-- User Based Collaborative Filtering
-- Model Based Matrix Factorization
-- Case 1: ARMUT ARL Recommender
-- Case 2: Hybrid Recommender System
-
-### Feature Engineering
-- Outliers
-- Missing Values
-- Encoding Scaling
-- Feature Extraction
-- Case: Diabetes Feature Engineering
 
 ### Machine Learning
 **First Part:**
